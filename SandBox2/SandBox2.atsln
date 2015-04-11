@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "SandBox2", "SandBox2\SandBox2.cppproj", "{A90E604A-8A19-4F39-8F5B-C943AA7B0B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90E604A-8A19-4F39-8F5B-C943AA7B0B89}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A90E604A-8A19-4F39-8F5B-C943AA7B0B89}.Debug|AVR.Build.0 = Debug|AVR
+		{A90E604A-8A19-4F39-8F5B-C943AA7B0B89}.Release|AVR.ActiveCfg = Release|AVR
+		{A90E604A-8A19-4F39-8F5B-C943AA7B0B89}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

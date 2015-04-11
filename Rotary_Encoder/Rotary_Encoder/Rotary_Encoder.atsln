@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("66253E91-70D1-4F19-A954-7F56AB1D0925") = "Rotary_Encoder", "Rotary_Encoder.cppproj", "7ECE3182-FC5D-4794-84B4-453544EBEA37"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		7ECE3182-FC5D-4794-84B4-453544EBEA37.Debug|AVR.ActiveCfg = Debug|AVR
+		7ECE3182-FC5D-4794-84B4-453544EBEA37.Debug|AVR.Build.0 = Debug|AVR
+		7ECE3182-FC5D-4794-84B4-453544EBEA37.Release|AVR.ActiveCfg = Release|AVR
+		7ECE3182-FC5D-4794-84B4-453544EBEA37.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal 

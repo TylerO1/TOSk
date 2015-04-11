@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Rotary_Encoder", "Rotary_Encoder\Rotary_Encoder.cppproj", "{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Debug|Uno = Debug|Uno
+		Release|AVR = Release|AVR
+		Release|Uno = Release|Uno
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Debug|AVR.Build.0 = Debug|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Debug|Uno.ActiveCfg = Debug|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Debug|Uno.Build.0 = Debug|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Release|AVR.ActiveCfg = Release|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Release|AVR.Build.0 = Release|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Release|Uno.ActiveCfg = Release|AVR
+		{BE2E3908-FEF1-4F50-AE0C-3EB28F7A05B4}.Release|Uno.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

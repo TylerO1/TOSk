@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Sensors", "Sensors.cppproj", "{C42F7495-BC94-430E-9DCF-ABFB4A33DB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42F7495-BC94-430E-9DCF-ABFB4A33DB66}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C42F7495-BC94-430E-9DCF-ABFB4A33DB66}.Release|AVR.ActiveCfg = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

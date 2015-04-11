@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("BC2942D6-2109-49D7-AD31-8E8E8287419B") = "ArduinoInterface_Uno", "ArduinoInterface_Uno.cppproj", "AD5B317A-2F25-42A0-A25C-7950E1DDA10A"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		AD5B317A-2F25-42A0-A25C-7950E1DDA10A.Debug|AVR.ActiveCfg = Debug|AVR
+		AD5B317A-2F25-42A0-A25C-7950E1DDA10A.Debug|AVR.Build.0 = Debug|AVR
+		AD5B317A-2F25-42A0-A25C-7950E1DDA10A.Release|AVR.ActiveCfg = Release|AVR
+		AD5B317A-2F25-42A0-A25C-7950E1DDA10A.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal 

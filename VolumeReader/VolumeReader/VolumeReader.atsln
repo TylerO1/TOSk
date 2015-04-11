@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("0E544C06-29B6-4642-A3F0-DD34CB04FDEE") = "VolumeReader", "VolumeReader.cppproj", "C75C56E6-0B81-4924-82D6-8F84839DC4EC"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		C75C56E6-0B81-4924-82D6-8F84839DC4EC.Debug|AVR.ActiveCfg = Debug|AVR
+		C75C56E6-0B81-4924-82D6-8F84839DC4EC.Debug|AVR.Build.0 = Debug|AVR
+		C75C56E6-0B81-4924-82D6-8F84839DC4EC.Release|AVR.ActiveCfg = Release|AVR
+		C75C56E6-0B81-4924-82D6-8F84839DC4EC.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal 
